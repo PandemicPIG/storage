@@ -1,7 +1,7 @@
 class App {
     
     constructor() {
-        this.token = 'Bearer ' + '5ed44afcfcf9f20ee7498bd535d09ce48f1425a088eed699fa5818086378'
+        this.token = 'Bearer ' + 'xxx'
         this.acceptedCustomers = [669, 345, 9, 537, 81]
         
         this.userUrl = 'https://portal-rumlive.rum.nccgroup-webperf.com/authorisation/user?service=8&u=cb86b7590b'
